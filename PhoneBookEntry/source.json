@@ -1,0 +1,9 @@
+[{ "id": 1, "firstName": "Redon", "lastName": "Dajlani", "number": 355699736519, "type": "Work" }
+,
+{ "id": 2, "firstName": "Redon", "lastName": "Dajlani", "number": 35555242266, "type": "Home" }
+,
+{ "id": 3, "firstName": "Bekim", "lastName": "Dajlani", "number": 355673656519, "type": "Cellphone" }
+,
+{ "id": 4, "firstName": "Fatmir", "lastName": "Hoxha", "number": 355699519736, "type": "Work" }
+
+]
